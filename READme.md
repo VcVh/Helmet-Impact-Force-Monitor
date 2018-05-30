@@ -74,6 +74,8 @@ Line 43: Check on the Pinout figure that you connected the positive side of your
 
 The Python code works as demonstrated by the following block diagram.
 
+![alt text](https://github.com/VcVh/Helmet-Impact-Force-Monitor/blob/master/img/schemabloc.JPG "test")
+
 
 In order to upload the code on the Raspberry Pi, you can use a software such as FileZilla.
 Here is how to configure it:
