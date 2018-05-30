@@ -1,5 +1,15 @@
 # Helmet Impact Force Monitor adapted on Raspberry 2
 
+HONORE Valentin (email: Valentin.HONORE2@student.umons.ac.be)
+
+VERVAEREN Charlotte (email: Charlotte.VERVAEREN@student.umons.ac.be)
+
+Faculty of Engineering, University of Mons (https://web.umons.ac.be/fr/), Belgium
+
+Class project of Hardware/Software Platform 2018
+
+
+
 The objective of this project is to measure the impact handled by a body during a fall and notice the user if medical attention is needed.
 
 In fact, by impact we mean the force of the impact. And for that end, we will use an accelerometer to measure the G-force that is exerted on the body.
