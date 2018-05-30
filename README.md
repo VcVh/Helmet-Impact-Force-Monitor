@@ -1,1 +1,0 @@
-# Helmet-Impact-Force-Monitor
