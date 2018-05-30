@@ -6,7 +6,7 @@ VERVAEREN Charlotte (email: Charlotte.VERVAEREN@student.umons.ac.be)
 
 Faculty of Engineering, University of Mons (https://web.umons.ac.be/fr/), Belgium
 
-Class project of Hardware/Software Platform 2018
+Course project of Hardware/Software Platform 2018
 
 
 
