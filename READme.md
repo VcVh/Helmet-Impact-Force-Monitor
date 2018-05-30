@@ -49,12 +49,12 @@ Type the following commands :
 ## Build the circuit
 
 On the following picture, in green you can see the connections to do for the LED and in blue the connections related to the accelerometer.
-![alt text](https://github.com/VcVh/essai/Helmet-Impact-Force-Monitor/blob/master/img/pinout.jpg "test")
+![alt text](https://github.com/VcVh/Helmet-Impact-Force-Monitor/blob/master/img/pinout.jpg "test")
 
 
 Don't forget to plug-in your USB camera in one of the slots of the Raspberry and the Ethernet cable.
 Here is a picture of the complete circuit :
-![alt text](https://github.com/VcVh/Helmet-Impact-Force-Monitor/blob/master/img/im.jpg "test")
+![alt text](https://github.com/VcVh/Helmet-Impact-Force-Monitor/blob/master/img/montage.jpg "test")
 
 ## Program it
 
@@ -78,7 +78,7 @@ The Python code works as demonstrated by the following block diagram.
 In order to upload the code on the Raspberry Pi, you can use a software such as FileZilla.
 Here is how to configure it:
 
-![alt text](https://github.com/VcVh/Helmet-Impact-Force-Monitor/blob/master/img/Filezilla.jpg "test")
+![alt text](https://github.com/VcVh/Helmet-Impact-Force-Monitor/blob/master/img/Filezilla.JPG "test")
 
 Then you can just drag and drop your code on a folder in your Pi.
 
