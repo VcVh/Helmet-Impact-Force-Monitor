@@ -39,11 +39,11 @@ Once you're connected on your card, we will need to install some libraries. One 
 
 Type the following commands :
 * To install Open CV2 (Camera)
-	*sudo apt-get install python-opencv
-	*sudo apt-get install python-scipy
-	*sudo apt-get install ipython
-*To install Xlsx Writer
-	*git clone https://github.com/jmcnamara/xlswriter.git
+	* sudo apt-get install python-opencv
+	* sudo apt-get install python-scipy
+	* sudo apt-get install ipython
+* To install Xlsx Writer
+	* git clone https://github.com/jmcnamara/xlswriter.git
 
 
 ## Build the circuit
