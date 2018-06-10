@@ -34,6 +34,7 @@ Our inpiration of this project comes from [this link](https://learn.sparkfun.com
 ## Configuration of your Raspberry
 
 The easiest way to enable SSH and I2C on your device is by plugging a monitor, a keyboard and a mouse to it. Then power-up your card and open a terminal and type:
+
 * sudo apt-get update
 * sudo apt-get upgrade
 * sudo shutdown -r now
